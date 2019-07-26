@@ -1,0 +1,1462 @@
+date,Weekday,vacances,est_jour_ferie,nom_jour_ferie,nom_vacances
+2017-01-01,Dimanche,True,TRUE,Nouvel an,Vacances de Noeel
+2017-01-02,Lundi,True,FALSE,,Vacances de Noeel
+2017-01-03,Mardi,True,FALSE,,Vacances de Noeel
+2017-01-04,Mercredi,True,FALSE,,Vacances de Noeel
+2017-01-05,Jeudi,True,FALSE,,Vacances de Noeel
+2017-01-06,Vendredi,True,FALSE,,Vacances de Noeel
+2017-01-07,Samedi,True,FALSE,,Vacances de Noeel
+2017-01-08,Dimanche,True,FALSE,,Vacances de Noeel
+2017-01-09,Lundi,FALSE,FALSE,,
+2017-01-10,Mardi,FALSE,FALSE,,
+2017-01-11,Mercredi,FALSE,FALSE,,
+2017-01-12,Jeudi,FALSE,FALSE,,
+2017-01-13,Vendredi,FALSE,FALSE,,
+2017-01-14,Samedi,FALSE,FALSE,,
+2017-01-15,Dimanche,FALSE,FALSE,,
+2017-01-16,Lundi,FALSE,FALSE,,
+2017-01-17,Mardi,FALSE,FALSE,,
+2017-01-18,Mercredi,FALSE,FALSE,,
+2017-01-19,Jeudi,FALSE,FALSE,,
+2017-01-20,Vendredi,FALSE,FALSE,,
+2017-01-21,Samedi,FALSE,FALSE,,
+2017-01-22,Dimanche,FALSE,FALSE,,
+2017-01-23,Lundi,FALSE,FALSE,,
+2017-01-24,Mardi,FALSE,FALSE,,
+2017-01-25,Mercredi,FALSE,FALSE,,
+2017-01-26,Jeudi,FALSE,FALSE,,
+2017-01-27,Vendredi,FALSE,FALSE,,
+2017-01-28,Samedi,FALSE,FALSE,,
+2017-01-29,Dimanche,FALSE,FALSE,,
+2017-01-30,Lundi,FALSE,FALSE,,
+2017-01-31,Mardi,FALSE,FALSE,,
+2017-02-01,Mercredi,FALSE,FALSE,,
+2017-02-02,Jeudi,FALSE,FALSE,,
+2017-02-03,Vendredi,FALSE,FALSE,,
+2017-02-04,Samedi,FALSE,FALSE,,
+2017-02-05,Dimanche,FALSE,FALSE,,
+2017-02-06,Lundi,FALSE,FALSE,,
+2017-02-07,Mardi,FALSE,FALSE,,
+2017-02-08,Mercredi,FALSE,FALSE,,
+2017-02-09,Jeudi,FALSE,FALSE,,
+2017-02-10,Vendredi,FALSE,FALSE,,
+2017-02-11,Samedi,FALSE,FALSE,,
+2017-02-12,Dimanche,FALSE,FALSE,,
+2017-02-13,Lundi,FALSE,FALSE,,
+2017-02-14,Mardi,FALSE,FALSE,,
+2017-02-15,Mercredi,FALSE,FALSE,,
+2017-02-16,Jeudi,FALSE,FALSE,,
+2017-02-17,Vendredi,FALSE,FALSE,,
+2017-02-18,Samedi,True,FALSE,,vacances de Carnaval
+2017-02-19,Dimanche,True,FALSE,,vacances de Carnaval
+2017-02-20,Lundi,True,FALSE,,vacances de Carnaval
+2017-02-21,Mardi,True,FALSE,,vacances de Carnaval
+2017-02-22,Mercredi,True,FALSE,,vacances de Carnaval
+2017-02-23,Jeudi,True,FALSE,,vacances de Carnaval
+2017-02-24,Vendredi,True,FALSE,,vacances de Carnaval
+2017-02-25,Samedi,True,FALSE,,vacances de Carnaval
+2017-02-26,Dimanche,True,FALSE,,vacances de Carnaval
+2017-02-27,Lundi,FALSE,FALSE,,
+2017-02-28,Mardi,FALSE,FALSE,,
+2017-03-01,Mercredi,FALSE,FALSE,,
+2017-03-02,Jeudi,FALSE,FALSE,,
+2017-03-03,Vendredi,FALSE,FALSE,,
+2017-03-04,Samedi,FALSE,FALSE,,
+2017-03-05,Dimanche,FALSE,FALSE,,
+2017-03-06,Lundi,FALSE,FALSE,,
+2017-03-07,Mardi,FALSE,FALSE,,
+2017-03-08,Mercredi,FALSE,FALSE,,
+2017-03-09,Jeudi,FALSE,FALSE,,
+2017-03-10,Vendredi,FALSE,FALSE,,
+2017-03-11,Samedi,FALSE,FALSE,,
+2017-03-12,Dimanche,FALSE,FALSE,,
+2017-03-13,Lundi,FALSE,FALSE,,
+2017-03-14,Mardi,FALSE,FALSE,,
+2017-03-15,Mercredi,FALSE,FALSE,,
+2017-03-16,Jeudi,FALSE,FALSE,,
+2017-03-17,Vendredi,FALSE,FALSE,,
+2017-03-18,Samedi,FALSE,FALSE,,
+2017-03-19,Dimanche,FALSE,FALSE,,
+2017-03-20,Lundi,FALSE,FALSE,,
+2017-03-21,Mardi,FALSE,FALSE,,
+2017-03-22,Mercredi,FALSE,FALSE,,
+2017-03-23,Jeudi,FALSE,FALSE,,
+2017-03-24,Vendredi,FALSE,FALSE,,
+2017-03-25,Samedi,FALSE,FALSE,,
+2017-03-26,Dimanche,FALSE,FALSE,,
+2017-03-27,Lundi,FALSE,FALSE,,
+2017-03-28,Mardi,FALSE,FALSE,,
+2017-03-29,Mercredi,FALSE,FALSE,,
+2017-03-30,Jeudi,FALSE,FALSE,,
+2017-03-31,Vendredi,FALSE,FALSE,,
+2017-04-01,Samedi,FALSE,FALSE,,
+2017-04-02,Dimanche,FALSE,FALSE,,
+2017-04-03,Lundi,FALSE,FALSE,,
+2017-04-04,Mardi,FALSE,FALSE,,
+2017-04-05,Mercredi,FALSE,FALSE,,
+2017-04-06,Jeudi,FALSE,FALSE,,
+2017-04-07,Vendredi,FALSE,FALSE,,
+2017-04-08,Samedi,True,FALSE,,Vacances de Peques
+2017-04-09,Dimanche,True,FALSE,,Vacances de Peques
+2017-04-10,Lundi,True,FALSE,,Vacances de Peques
+2017-04-11,Mardi,True,FALSE,,Vacances de Peques
+2017-04-12,Mercredi,True,FALSE,,Vacances de Peques
+2017-04-13,Jeudi,True,FALSE,,Vacances de Peques
+2017-04-14,Vendredi,True,FALSE,,Vacances de Peques
+2017-04-15,Samedi,True,FALSE,,Vacances de Peques
+2017-04-16,Dimanche,True,TRUE,Peques,Vacances de Peques
+2017-04-17,Lundi,True,TRUE,Lundi de Peques,Vacances de Peques
+2017-04-18,Mardi,True,FALSE,,Vacances de Peques
+2017-04-19,Mercredi,True,FALSE,,Vacances de Peques
+2017-04-20,Jeudi,True,FALSE,,Vacances de Peques
+2017-04-21,Vendredi,True,FALSE,,Vacances de Peques
+2017-04-22,Samedi,True,FALSE,,Vacances de Peques
+2017-04-23,Dimanche,True,FALSE,,Vacances de Peques
+2017-04-24,Lundi,FALSE,FALSE,,
+2017-04-25,Mardi,FALSE,FALSE,,
+2017-04-26,Mercredi,FALSE,FALSE,,
+2017-04-27,Jeudi,FALSE,FALSE,,
+2017-04-28,Vendredi,FALSE,FALSE,,
+2017-04-29,Samedi,FALSE,FALSE,,
+2017-04-30,Dimanche,FALSE,FALSE,,
+2017-05-01,Lundi,FALSE,TRUE,Feªte du travail,
+2017-05-02,Mardi,FALSE,FALSE,,
+2017-05-03,Mercredi,FALSE,FALSE,,
+2017-05-04,Jeudi,FALSE,FALSE,,
+2017-05-05,Vendredi,FALSE,FALSE,,
+2017-05-06,Samedi,FALSE,FALSE,,
+2017-05-07,Dimanche,FALSE,FALSE,,
+2017-05-08,Lundi,FALSE,FALSE,,
+2017-05-09,Mardi,FALSE,FALSE,,
+2017-05-10,Mercredi,FALSE,FALSE,,
+2017-05-11,Jeudi,FALSE,FALSE,,
+2017-05-12,Vendredi,FALSE,FALSE,,
+2017-05-13,Samedi,FALSE,FALSE,,
+2017-05-14,Dimanche,FALSE,FALSE,,
+2017-05-15,Lundi,FALSE,FALSE,,
+2017-05-16,Mardi,FALSE,FALSE,,
+2017-05-17,Mercredi,FALSE,FALSE,,
+2017-05-18,Jeudi,FALSE,FALSE,,
+2017-05-19,Vendredi,FALSE,FALSE,,
+2017-05-20,Samedi,FALSE,FALSE,,
+2017-05-21,Dimanche,FALSE,FALSE,,
+2017-05-22,Lundi,FALSE,FALSE,,
+2017-05-23,Mardi,FALSE,FALSE,,
+2017-05-24,Mercredi,FALSE,FALSE,,
+2017-05-25,Jeudi,FALSE,TRUE,Ascension,
+2017-05-26,Vendredi,FALSE,FALSE,,
+2017-05-27,Samedi,FALSE,FALSE,,
+2017-05-28,Dimanche,FALSE,FALSE,,
+2017-05-29,Lundi,FALSE,FALSE,,
+2017-05-30,Mardi,FALSE,FALSE,,
+2017-05-31,Mercredi,FALSE,FALSE,,
+2017-06-01,Jeudi,FALSE,FALSE,,
+2017-06-02,Vendredi,FALSE,FALSE,,
+2017-06-03,Samedi,True,FALSE,,Vacances de Pentecete
+2017-06-04,Dimanche,True,TRUE,Pentecete,Vacances de Pentecete
+2017-06-05,Lundi,True,TRUE,Lundi de Pentecete,Vacances de Pentecete
+2017-06-06,Mardi,True,FALSE,,Vacances de Pentecete
+2017-06-07,Mercredi,True,FALSE,,Vacances de Pentecete
+2017-06-08,Jeudi,True,FALSE,,Vacances de Pentecete
+2017-06-09,Vendredi,True,FALSE,,Vacances de Pentecete
+2017-06-10,Samedi,True,FALSE,,Vacances de Pentecete
+2017-06-11,Dimanche,True,FALSE,,Vacances de Pentecete
+2017-06-12,Lundi,FALSE,FALSE,,
+2017-06-13,Mardi,FALSE,FALSE,,
+2017-06-14,Mercredi,FALSE,FALSE,,
+2017-06-15,Jeudi,FALSE,FALSE,,
+2017-06-16,Vendredi,FALSE,FALSE,,
+2017-06-17,Samedi,FALSE,FALSE,,
+2017-06-18,Dimanche,FALSE,FALSE,,
+2017-06-19,Lundi,FALSE,FALSE,,
+2017-06-20,Mardi,FALSE,FALSE,,
+2017-06-21,Mercredi,FALSE,FALSE,,
+2017-06-22,Jeudi,FALSE,FALSE,,
+2017-06-23,Vendredi,FALSE,TRUE,Feªte nationale Luxembourg,
+2017-06-24,Samedi,FALSE,FALSE,,
+2017-06-25,Dimanche,FALSE,FALSE,,
+2017-06-26,Lundi,FALSE,FALSE,,
+2017-06-27,Mardi,FALSE,FALSE,,
+2017-06-28,Mercredi,FALSE,FALSE,,
+2017-06-29,Jeudi,FALSE,FALSE,,
+2017-06-30,Vendredi,FALSE,FALSE,,
+2017-07-01,Samedi,FALSE,FALSE,,
+2017-07-02,Dimanche,FALSE,FALSE,,
+2017-07-03,Lundi,FALSE,FALSE,,
+2017-07-04,Mardi,FALSE,FALSE,,
+2017-07-05,Mercredi,FALSE,FALSE,,
+2017-07-06,Jeudi,FALSE,FALSE,,
+2017-07-07,Vendredi,FALSE,FALSE,,
+2017-07-08,Samedi,FALSE,FALSE,,
+2017-07-09,Dimanche,FALSE,FALSE,,
+2017-07-10,Lundi,FALSE,FALSE,,
+2017-07-11,Mardi,FALSE,FALSE,,
+2017-07-12,Mercredi,FALSE,FALSE,,
+2017-07-13,Jeudi,FALSE,FALSE,,
+2017-07-14,Vendredi,FALSE,FALSE,,
+2017-07-15,Samedi,True,FALSE,,Vacances dete
+2017-07-16,Dimanche,True,FALSE,,Vacances dete
+2017-07-17,Lundi,True,FALSE,,Vacances dete
+2017-07-18,Mardi,True,FALSE,,Vacances dete
+2017-07-19,Mercredi,True,FALSE,,Vacances dete
+2017-07-20,Jeudi,True,FALSE,,Vacances dete
+2017-07-21,Vendredi,True,FALSE,,Vacances dete
+2017-07-22,Samedi,True,FALSE,,Vacances dete
+2017-07-23,Dimanche,True,FALSE,,Vacances dete
+2017-07-24,Lundi,True,FALSE,,Vacances dete
+2017-07-25,Mardi,True,FALSE,,Vacances dete
+2017-07-26,Mercredi,True,FALSE,,Vacances dete
+2017-07-27,Jeudi,True,FALSE,,Vacances dete
+2017-07-28,Vendredi,True,FALSE,,Vacances dete
+2017-07-29,Samedi,True,FALSE,,Vacances dete
+2017-07-30,Dimanche,True,FALSE,,Vacances dete
+2017-07-31,Lundi,True,FALSE,,Vacances dete
+2017-08-01,Mardi,True,FALSE,,Vacances dete
+2017-08-02,Mercredi,True,FALSE,,Vacances dete
+2017-08-03,Jeudi,True,FALSE,,Vacances dete
+2017-08-04,Vendredi,True,FALSE,,Vacances dete
+2017-08-05,Samedi,True,FALSE,,Vacances dete
+2017-08-06,Dimanche,True,FALSE,,Vacances dete
+2017-08-07,Lundi,True,FALSE,,Vacances dete
+2017-08-08,Mardi,True,FALSE,,Vacances dete
+2017-08-09,Mercredi,True,FALSE,,Vacances dete
+2017-08-10,Jeudi,True,FALSE,,Vacances dete
+2017-08-11,Vendredi,True,FALSE,,Vacances dete
+2017-08-12,Samedi,True,FALSE,,Vacances dete
+2017-08-13,Dimanche,True,FALSE,,Vacances dete
+2017-08-14,Lundi,True,FALSE,,Vacances dete
+2017-08-15,Mardi,True,TRUE,Assomption,Vacances dete
+2017-08-16,Mercredi,True,FALSE,,Vacances dete
+2017-08-17,Jeudi,True,FALSE,,Vacances dete
+2017-08-18,Vendredi,True,FALSE,,Vacances dete
+2017-08-19,Samedi,True,FALSE,,Vacances dete
+2017-08-20,Dimanche,True,FALSE,,Vacances dete
+2017-08-21,Lundi,True,FALSE,,Vacances dete
+2017-08-22,Mardi,True,FALSE,,Vacances dete
+2017-08-23,Mercredi,True,FALSE,,Vacances dete
+2017-08-24,Jeudi,True,FALSE,,Vacances dete
+2017-08-25,Vendredi,True,FALSE,,Vacances dete
+2017-08-26,Samedi,True,FALSE,,Vacances dete
+2017-08-27,Dimanche,True,FALSE,,Vacances dete
+2017-08-28,Lundi,True,FALSE,,Vacances dete
+2017-08-29,Mardi,True,FALSE,,Vacances dete
+2017-08-30,Mercredi,True,FALSE,,Vacances dete
+2017-08-31,Jeudi,True,FALSE,,Vacances dete
+2017-09-01,Vendredi,True,FALSE,,Vacances dete
+2017-09-02,Samedi,True,FALSE,,Vacances dete
+2017-09-03,Dimanche,True,FALSE,,Vacances dete
+2017-09-04,Lundi,True,FALSE,,Vacances dete
+2017-09-05,Mardi,True,FALSE,,Vacances dete
+2017-09-06,Mercredi,True,FALSE,,Vacances dete
+2017-09-07,Jeudi,True,FALSE,,Vacances dete
+2017-09-08,Vendredi,True,FALSE,,Vacances dete
+2017-09-09,Samedi,True,FALSE,,Vacances dete
+2017-09-10,Dimanche,True,FALSE,,Vacances dete
+2017-09-11,Lundi,True,FALSE,,Vacances dete
+2017-09-12,Mardi,True,FALSE,,Vacances dete
+2017-09-13,Mercredi,True,FALSE,,Vacances dete
+2017-09-14,Jeudi,True,FALSE,,Vacances dete
+2017-09-15,Vendredi,FALSE,FALSE,,
+2017-09-16,Samedi,FALSE,FALSE,,
+2017-09-17,Dimanche,FALSE,FALSE,,
+2017-09-18,Lundi,FALSE,FALSE,,
+2017-09-19,Mardi,FALSE,FALSE,,
+2017-09-20,Mercredi,FALSE,FALSE,,
+2017-09-21,Jeudi,FALSE,FALSE,,
+2017-09-22,Vendredi,FALSE,FALSE,,
+2017-09-23,Samedi,FALSE,FALSE,,
+2017-09-24,Dimanche,FALSE,FALSE,,
+2017-09-25,Lundi,FALSE,FALSE,,
+2017-09-26,Mardi,FALSE,FALSE,,
+2017-09-27,Mercredi,FALSE,FALSE,,
+2017-09-28,Jeudi,FALSE,FALSE,,
+2017-09-29,Vendredi,FALSE,FALSE,,
+2017-09-30,Samedi,FALSE,FALSE,,
+2017-10-01,Dimanche,FALSE,FALSE,,
+2017-10-02,Lundi,FALSE,FALSE,,
+2017-10-03,Mardi,FALSE,FALSE,,
+2017-10-04,Mercredi,FALSE,FALSE,,
+2017-10-05,Jeudi,FALSE,FALSE,,
+2017-10-06,Vendredi,FALSE,FALSE,,
+2017-10-07,Samedi,FALSE,FALSE,,
+2017-10-08,Dimanche,FALSE,FALSE,,
+2017-10-09,Lundi,FALSE,FALSE,,
+2017-10-10,Mardi,FALSE,FALSE,,
+2017-10-11,Mercredi,FALSE,FALSE,,
+2017-10-12,Jeudi,FALSE,FALSE,,
+2017-10-13,Vendredi,FALSE,FALSE,,
+2017-10-14,Samedi,FALSE,FALSE,,
+2017-10-15,Dimanche,FALSE,FALSE,,
+2017-10-16,Lundi,FALSE,FALSE,,
+2017-10-17,Mardi,FALSE,FALSE,,
+2017-10-18,Mercredi,FALSE,FALSE,,
+2017-10-19,Jeudi,FALSE,FALSE,,
+2017-10-20,Vendredi,FALSE,FALSE,,
+2017-10-21,Samedi,FALSE,FALSE,,
+2017-10-22,Dimanche,FALSE,FALSE,,
+2017-10-23,Lundi,FALSE,FALSE,,
+2017-10-24,Mardi,FALSE,FALSE,,
+2017-10-25,Mercredi,FALSE,FALSE,,
+2017-10-26,Jeudi,FALSE,FALSE,,
+2017-10-27,Vendredi,FALSE,FALSE,,
+2017-10-28,Samedi,True,FALSE,,La Toussaint
+2017-10-29,Dimanche,True,FALSE,,La Toussaint
+2017-10-30,Lundi,True,FALSE,,La Toussaint
+2017-10-31,Mardi,True,FALSE,,La Toussaint
+2017-11-01,Mercredi,True,TRUE,La Toussaint,La Toussaint
+2017-11-02,Jeudi,True,TRUE,Les Trepasses,La Toussaint
+2017-11-03,Vendredi,True,FALSE,,La Toussaint
+2017-11-04,Samedi,True,FALSE,,La Toussaint
+2017-11-05,Dimanche,True,FALSE,,La Toussaint
+2017-11-06,Lundi,FALSE,FALSE,,
+2017-11-07,Mardi,FALSE,FALSE,,
+2017-11-08,Mercredi,FALSE,FALSE,,
+2017-11-09,Jeudi,FALSE,FALSE,,
+2017-11-10,Vendredi,FALSE,FALSE,,
+2017-11-11,Samedi,FALSE,FALSE,,
+2017-11-12,Dimanche,FALSE,FALSE,,
+2017-11-13,Lundi,FALSE,FALSE,,
+2017-11-14,Mardi,FALSE,FALSE,,
+2017-11-15,Mercredi,FALSE,FALSE,,
+2017-11-16,Jeudi,FALSE,FALSE,,
+2017-11-17,Vendredi,FALSE,FALSE,,
+2017-11-18,Samedi,FALSE,FALSE,,
+2017-11-19,Dimanche,FALSE,FALSE,,
+2017-11-20,Lundi,FALSE,FALSE,,
+2017-11-21,Mardi,FALSE,FALSE,,
+2017-11-22,Mercredi,FALSE,FALSE,,
+2017-11-23,Jeudi,FALSE,FALSE,,
+2017-11-24,Vendredi,FALSE,FALSE,,
+2017-11-25,Samedi,FALSE,FALSE,,
+2017-11-26,Dimanche,FALSE,FALSE,,
+2017-11-27,Lundi,FALSE,FALSE,,
+2017-11-28,Mardi,FALSE,FALSE,,
+2017-11-29,Mercredi,FALSE,FALSE,,
+2017-11-30,Jeudi,FALSE,FALSE,,
+2017-12-01,Vendredi,FALSE,FALSE,,
+2017-12-02,Samedi,FALSE,FALSE,,
+2017-12-03,Dimanche,FALSE,FALSE,,
+2017-12-04,Lundi,FALSE,FALSE,,
+2017-12-05,Mardi,FALSE,FALSE,,
+2017-12-06,Mercredi,FALSE,FALSE,,
+2017-12-07,Jeudi,FALSE,FALSE,,
+2017-12-08,Vendredi,FALSE,FALSE,,
+2017-12-09,Samedi,FALSE,FALSE,,
+2017-12-10,Dimanche,FALSE,FALSE,,
+2017-12-11,Lundi,FALSE,FALSE,,
+2017-12-12,Mardi,FALSE,FALSE,,
+2017-12-13,Mercredi,FALSE,FALSE,,
+2017-12-14,Jeudi,FALSE,FALSE,,
+2017-12-15,Vendredi,FALSE,FALSE,,
+2017-12-16,Samedi,True,FALSE,,Vacances de Noeel
+2017-12-17,Dimanche,True,FALSE,,Vacances de Noeel
+2017-12-18,Lundi,True,FALSE,,Vacances de Noeel
+2017-12-19,Mardi,True,FALSE,,Vacances de Noeel
+2017-12-20,Mercredi,True,FALSE,,Vacances de Noeel
+2017-12-21,Jeudi,True,FALSE,,Vacances de Noeel
+2017-12-22,Vendredi,True,FALSE,,Vacances de Noeel
+2017-12-23,Samedi,True,FALSE,,Vacances de Noeel
+2017-12-24,Dimanche,True,FALSE,,Vacances de Noeel
+2017-12-25,Lundi,True,TRUE,Noeel,Vacances de Noeel
+2017-12-26,Mardi,True,TRUE,Saint Etienne,Vacances de Noeel
+2017-12-27,Mercredi,True,FALSE,,Vacances de Noeel
+2017-12-28,Jeudi,True,FALSE,,Vacances de Noeel
+2017-12-29,Vendredi,True,FALSE,,Vacances de Noeel
+2017-12-30,Samedi,True,FALSE,,Vacances de Noeel
+2017-12-31,Dimanche,True,FALSE,,Vacances de Noeel
+2018-01-01,Lundi,True,TRUE,Nouvel an,Vacances de Noeel
+2018-01-02,Mardi,FALSE,FALSE,,
+2018-01-03,Mercredi,FALSE,FALSE,,
+2018-01-04,Jeudi,FALSE,FALSE,,
+2018-01-05,Vendredi,FALSE,FALSE,,
+2018-01-06,Samedi,FALSE,FALSE,,
+2018-01-07,Dimanche,FALSE,FALSE,,
+2018-01-08,Lundi,FALSE,FALSE,,
+2018-01-09,Mardi,FALSE,FALSE,,
+2018-01-10,Mercredi,FALSE,FALSE,,
+2018-01-11,Jeudi,FALSE,FALSE,,
+2018-01-12,Vendredi,FALSE,FALSE,,
+2018-01-13,Samedi,FALSE,FALSE,,
+2018-01-14,Dimanche,FALSE,FALSE,,
+2018-01-15,Lundi,FALSE,FALSE,,
+2018-01-16,Mardi,FALSE,FALSE,,
+2018-01-17,Mercredi,FALSE,FALSE,,
+2018-01-18,Jeudi,FALSE,FALSE,,
+2018-01-19,Vendredi,FALSE,FALSE,,
+2018-01-20,Samedi,FALSE,FALSE,,
+2018-01-21,Dimanche,FALSE,FALSE,,
+2018-01-22,Lundi,FALSE,FALSE,,
+2018-01-23,Mardi,FALSE,FALSE,,
+2018-01-24,Mercredi,FALSE,FALSE,,
+2018-01-25,Jeudi,FALSE,FALSE,,
+2018-01-26,Vendredi,FALSE,FALSE,,
+2018-01-27,Samedi,FALSE,FALSE,,
+2018-01-28,Dimanche,FALSE,FALSE,,
+2018-01-29,Lundi,FALSE,FALSE,,
+2018-01-30,Mardi,FALSE,FALSE,,
+2018-01-31,Mercredi,FALSE,FALSE,,
+2018-02-01,Jeudi,FALSE,FALSE,,
+2018-02-02,Vendredi,FALSE,FALSE,,
+2018-02-03,Samedi,FALSE,FALSE,,
+2018-02-04,Dimanche,FALSE,FALSE,,
+2018-02-05,Lundi,FALSE,FALSE,,
+2018-02-06,Mardi,FALSE,FALSE,,
+2018-02-07,Mercredi,FALSE,FALSE,,
+2018-02-08,Jeudi,FALSE,FALSE,,
+2018-02-09,Vendredi,FALSE,FALSE,,
+2018-02-10,Samedi,True,FALSE,,vacances de Carnaval
+2018-02-11,Dimanche,True,FALSE,,vacances de Carnaval
+2018-02-12,Lundi,True,FALSE,,vacances de Carnaval
+2018-02-13,Mardi,True,FALSE,,vacances de Carnaval
+2018-02-14,Mercredi,True,FALSE,,vacances de Carnaval
+2018-02-15,Jeudi,True,FALSE,,vacances de Carnaval
+2018-02-16,Vendredi,True,FALSE,,vacances de Carnaval
+2018-02-17,Samedi,True,FALSE,,vacances de Carnaval
+2018-02-18,Dimanche,True,FALSE,,vacances de Carnaval
+2018-02-19,Lundi,FALSE,FALSE,,
+2018-02-20,Mardi,FALSE,FALSE,,
+2018-02-21,Mercredi,FALSE,FALSE,,
+2018-02-22,Jeudi,FALSE,FALSE,,
+2018-02-23,Vendredi,FALSE,FALSE,,
+2018-02-24,Samedi,FALSE,FALSE,,
+2018-02-25,Dimanche,FALSE,FALSE,,
+2018-02-26,Lundi,FALSE,FALSE,,
+2018-02-27,Mardi,FALSE,FALSE,,
+2018-02-28,Mercredi,FALSE,FALSE,,
+2018-03-01,Jeudi,FALSE,FALSE,,
+2018-03-02,Vendredi,FALSE,FALSE,,
+2018-03-03,Samedi,FALSE,FALSE,,
+2018-03-04,Dimanche,FALSE,FALSE,,
+2018-03-05,Lundi,FALSE,FALSE,,
+2018-03-06,Mardi,FALSE,FALSE,,
+2018-03-07,Mercredi,FALSE,FALSE,,
+2018-03-08,Jeudi,FALSE,FALSE,,
+2018-03-09,Vendredi,FALSE,FALSE,,
+2018-03-10,Samedi,FALSE,FALSE,,
+2018-03-11,Dimanche,FALSE,FALSE,,
+2018-03-12,Lundi,FALSE,FALSE,,
+2018-03-13,Mardi,FALSE,FALSE,,
+2018-03-14,Mercredi,FALSE,FALSE,,
+2018-03-15,Jeudi,FALSE,FALSE,,
+2018-03-16,Vendredi,FALSE,FALSE,,
+2018-03-17,Samedi,FALSE,FALSE,,
+2018-03-18,Dimanche,FALSE,FALSE,,
+2018-03-19,Lundi,FALSE,FALSE,,
+2018-03-20,Mardi,FALSE,FALSE,,
+2018-03-21,Mercredi,FALSE,FALSE,,
+2018-03-22,Jeudi,FALSE,FALSE,,
+2018-03-23,Vendredi,FALSE,FALSE,,
+2018-03-24,Samedi,FALSE,FALSE,,
+2018-03-25,Dimanche,FALSE,FALSE,,
+2018-03-26,Lundi,FALSE,FALSE,,
+2018-03-27,Mardi,FALSE,FALSE,,
+2018-03-28,Mercredi,FALSE,FALSE,,
+2018-03-29,Jeudi,FALSE,FALSE,,
+2018-03-30,Vendredi,FALSE,FALSE,,
+2018-03-31,Samedi,True,FALSE,,Vacances de Peques
+2018-04-01,Dimanche,True,TRUE,Peques,Vacances de Peques
+2018-04-02,Lundi,True,TRUE,Lundi de Peques,Vacances de Peques
+2018-04-03,Mardi,True,FALSE,,Vacances de Peques
+2018-04-04,Mercredi,True,FALSE,,Vacances de Peques
+2018-04-05,Jeudi,True,FALSE,,Vacances de Peques
+2018-04-06,Vendredi,True,FALSE,,Vacances de Peques
+2018-04-07,Samedi,True,FALSE,,Vacances de Peques
+2018-04-08,Dimanche,True,FALSE,,Vacances de Peques
+2018-04-09,Lundi,True,FALSE,,Vacances de Peques
+2018-04-10,Mardi,True,FALSE,,Vacances de Peques
+2018-04-11,Mercredi,True,FALSE,,Vacances de Peques
+2018-04-12,Jeudi,True,FALSE,,Vacances de Peques
+2018-04-13,Vendredi,True,FALSE,,Vacances de Peques
+2018-04-14,Samedi,True,FALSE,,Vacances de Peques
+2018-04-15,Dimanche,True,FALSE,,Vacances de Peques
+2018-04-16,Lundi,FALSE,FALSE,,
+2018-04-17,Mardi,FALSE,FALSE,,
+2018-04-18,Mercredi,FALSE,FALSE,,
+2018-04-19,Jeudi,FALSE,FALSE,,
+2018-04-20,Vendredi,FALSE,FALSE,,
+2018-04-21,Samedi,FALSE,FALSE,,
+2018-04-22,Dimanche,FALSE,FALSE,,
+2018-04-23,Lundi,FALSE,FALSE,,
+2018-04-24,Mardi,FALSE,FALSE,,
+2018-04-25,Mercredi,FALSE,FALSE,,
+2018-04-26,Jeudi,FALSE,FALSE,,
+2018-04-27,Vendredi,FALSE,FALSE,,
+2018-04-28,Samedi,FALSE,FALSE,,
+2018-04-29,Dimanche,FALSE,FALSE,,
+2018-04-30,Lundi,FALSE,FALSE,,
+2018-05-01,Mardi,FALSE,TRUE,Feªte du travail,
+2018-05-02,Mercredi,FALSE,FALSE,,
+2018-05-03,Jeudi,FALSE,FALSE,,
+2018-05-04,Vendredi,FALSE,FALSE,,
+2018-05-05,Samedi,FALSE,FALSE,,
+2018-05-06,Dimanche,FALSE,FALSE,,
+2018-05-07,Lundi,FALSE,FALSE,,
+2018-05-08,Mardi,FALSE,FALSE,,
+2018-05-09,Mercredi,FALSE,FALSE,,
+2018-05-10,Jeudi,FALSE,TRUE,Ascension,
+2018-05-11,Vendredi,FALSE,FALSE,,
+2018-05-12,Samedi,FALSE,FALSE,,
+2018-05-13,Dimanche,FALSE,FALSE,,
+2018-05-14,Lundi,FALSE,FALSE,,
+2018-05-15,Mardi,FALSE,FALSE,,
+2018-05-16,Mercredi,FALSE,FALSE,,
+2018-05-17,Jeudi,FALSE,FALSE,,
+2018-05-18,Vendredi,FALSE,FALSE,,
+2018-05-19,Samedi,True,FALSE,,Vacances de Pentecete
+2018-05-20,Dimanche,True,TRUE,Pentecete,Vacances de Pentecete
+2018-05-21,Lundi,True,TRUE,Lundi de Pentecete,Vacances de Pentecete
+2018-05-22,Mardi,True,FALSE,,Vacances de Pentecete
+2018-05-23,Mercredi,True,FALSE,,Vacances de Pentecete
+2018-05-24,Jeudi,True,FALSE,,Vacances de Pentecete
+2018-05-25,Vendredi,True,FALSE,,Vacances de Pentecete
+2018-05-26,Samedi,True,FALSE,,Vacances de Pentecete
+2018-05-27,Dimanche,True,FALSE,,Vacances de Pentecete
+2018-05-28,Lundi,FALSE,FALSE,,
+2018-05-29,Mardi,FALSE,FALSE,,
+2018-05-30,Mercredi,FALSE,FALSE,,
+2018-05-31,Jeudi,FALSE,FALSE,,
+2018-06-01,Vendredi,FALSE,FALSE,,
+2018-06-02,Samedi,FALSE,FALSE,,
+2018-06-03,Dimanche,FALSE,FALSE,,
+2018-06-04,Lundi,FALSE,FALSE,,
+2018-06-05,Mardi,FALSE,FALSE,,
+2018-06-06,Mercredi,FALSE,FALSE,,
+2018-06-07,Jeudi,FALSE,FALSE,,
+2018-06-08,Vendredi,FALSE,FALSE,,
+2018-06-09,Samedi,FALSE,FALSE,,
+2018-06-10,Dimanche,FALSE,FALSE,,
+2018-06-11,Lundi,FALSE,FALSE,,
+2018-06-12,Mardi,FALSE,FALSE,,
+2018-06-13,Mercredi,FALSE,FALSE,,
+2018-06-14,Jeudi,FALSE,FALSE,,
+2018-06-15,Vendredi,FALSE,FALSE,,
+2018-06-16,Samedi,FALSE,FALSE,,
+2018-06-17,Dimanche,FALSE,FALSE,,
+2018-06-18,Lundi,FALSE,FALSE,,
+2018-06-19,Mardi,FALSE,FALSE,,
+2018-06-20,Mercredi,FALSE,FALSE,,
+2018-06-21,Jeudi,FALSE,FALSE,,
+2018-06-22,Vendredi,FALSE,FALSE,,
+2018-06-23,Samedi,FALSE,TRUE,Feªte nationale Luxembourg,
+2018-06-24,Dimanche,FALSE,FALSE,,
+2018-06-25,Lundi,FALSE,FALSE,,
+2018-06-26,Mardi,FALSE,FALSE,,
+2018-06-27,Mercredi,FALSE,FALSE,,
+2018-06-28,Jeudi,FALSE,FALSE,,
+2018-06-29,Vendredi,FALSE,FALSE,,
+2018-06-30,Samedi,FALSE,FALSE,,
+2018-07-01,Dimanche,FALSE,FALSE,,
+2018-07-02,Lundi,FALSE,FALSE,,
+2018-07-03,Mardi,FALSE,FALSE,,
+2018-07-04,Mercredi,FALSE,FALSE,,
+2018-07-05,Jeudi,FALSE,FALSE,,
+2018-07-06,Vendredi,FALSE,FALSE,,
+2018-07-07,Samedi,FALSE,FALSE,,
+2018-07-08,Dimanche,FALSE,FALSE,,
+2018-07-09,Lundi,FALSE,FALSE,,
+2018-07-10,Mardi,FALSE,FALSE,,
+2018-07-11,Mercredi,FALSE,FALSE,,
+2018-07-12,Jeudi,FALSE,FALSE,,
+2018-07-13,Vendredi,FALSE,FALSE,,
+2018-07-14,Samedi,True,FALSE,,Vacances dete
+2018-07-15,Dimanche,True,FALSE,,Vacances dete
+2018-07-16,Lundi,True,FALSE,,Vacances dete
+2018-07-17,Mardi,True,FALSE,,Vacances dete
+2018-07-18,Mercredi,True,FALSE,,Vacances dete
+2018-07-19,Jeudi,True,FALSE,,Vacances dete
+2018-07-20,Vendredi,True,FALSE,,Vacances dete
+2018-07-21,Samedi,True,FALSE,,Vacances dete
+2018-07-22,Dimanche,True,FALSE,,Vacances dete
+2018-07-23,Lundi,True,FALSE,,Vacances dete
+2018-07-24,Mardi,True,FALSE,,Vacances dete
+2018-07-25,Mercredi,True,FALSE,,Vacances dete
+2018-07-26,Jeudi,True,FALSE,,Vacances dete
+2018-07-27,Vendredi,True,FALSE,,Vacances dete
+2018-07-28,Samedi,True,FALSE,,Vacances dete
+2018-07-29,Dimanche,True,FALSE,,Vacances dete
+2018-07-30,Lundi,True,FALSE,,Vacances dete
+2018-07-31,Mardi,True,FALSE,,Vacances dete
+2018-08-01,Mercredi,True,FALSE,,Vacances dete
+2018-08-02,Jeudi,True,FALSE,,Vacances dete
+2018-08-03,Vendredi,True,FALSE,,Vacances dete
+2018-08-04,Samedi,True,FALSE,,Vacances dete
+2018-08-05,Dimanche,True,FALSE,,Vacances dete
+2018-08-06,Lundi,True,FALSE,,Vacances dete
+2018-08-07,Mardi,True,FALSE,,Vacances dete
+2018-08-08,Mercredi,True,FALSE,,Vacances dete
+2018-08-09,Jeudi,True,FALSE,,Vacances dete
+2018-08-10,Vendredi,True,FALSE,,Vacances dete
+2018-08-11,Samedi,True,FALSE,,Vacances dete
+2018-08-12,Dimanche,True,FALSE,,Vacances dete
+2018-08-13,Lundi,True,FALSE,,Vacances dete
+2018-08-14,Mardi,True,FALSE,,Vacances dete
+2018-08-15,Mercredi,True,TRUE,Assomption,Vacances dete
+2018-08-16,Jeudi,True,FALSE,,Vacances dete
+2018-08-17,Vendredi,True,FALSE,,Vacances dete
+2018-08-18,Samedi,True,FALSE,,Vacances dete
+2018-08-19,Dimanche,True,FALSE,,Vacances dete
+2018-08-20,Lundi,True,FALSE,,Vacances dete
+2018-08-21,Mardi,True,FALSE,,Vacances dete
+2018-08-22,Mercredi,True,FALSE,,Vacances dete
+2018-08-23,Jeudi,True,FALSE,,Vacances dete
+2018-08-24,Vendredi,True,FALSE,,Vacances dete
+2018-08-25,Samedi,True,FALSE,,Vacances dete
+2018-08-26,Dimanche,True,FALSE,,Vacances dete
+2018-08-27,Lundi,True,FALSE,,Vacances dete
+2018-08-28,Mardi,True,FALSE,,Vacances dete
+2018-08-29,Mercredi,True,FALSE,,Vacances dete
+2018-08-30,Jeudi,True,FALSE,,Vacances dete
+2018-08-31,Vendredi,True,FALSE,,Vacances dete
+2018-09-01,Samedi,True,FALSE,,Vacances dete
+2018-09-02,Dimanche,True,FALSE,,Vacances dete
+2018-09-03,Lundi,True,FALSE,,Vacances dete
+2018-09-04,Mardi,True,FALSE,,Vacances dete
+2018-09-05,Mercredi,True,FALSE,,Vacances dete
+2018-09-06,Jeudi,True,FALSE,,Vacances dete
+2018-09-07,Vendredi,True,FALSE,,Vacances dete
+2018-09-08,Samedi,True,FALSE,,Vacances dete
+2018-09-09,Dimanche,True,FALSE,,Vacances dete
+2018-09-10,Lundi,True,FALSE,,Vacances dete
+2018-09-11,Mardi,True,FALSE,,Vacances dete
+2018-09-12,Mercredi,True,FALSE,,Vacances dete
+2018-09-13,Jeudi,True,FALSE,,Vacances dete
+2018-09-14,Vendredi,True,FALSE,,Vacances dete
+2018-09-15,Samedi,True,FALSE,,Vacances dete
+2018-09-16,Dimanche,True,FALSE,,Vacances dete
+2018-09-17,Lundi,FALSE,FALSE,,
+2018-09-18,Mardi,FALSE,FALSE,,
+2018-09-19,Mercredi,FALSE,FALSE,,
+2018-09-20,Jeudi,FALSE,FALSE,,
+2018-09-21,Vendredi,FALSE,FALSE,,
+2018-09-22,Samedi,FALSE,FALSE,,
+2018-09-23,Dimanche,FALSE,FALSE,,
+2018-09-24,Lundi,FALSE,FALSE,,
+2018-09-25,Mardi,FALSE,FALSE,,
+2018-09-26,Mercredi,FALSE,FALSE,,
+2018-09-27,Jeudi,FALSE,FALSE,,
+2018-09-28,Vendredi,FALSE,FALSE,,
+2018-09-29,Samedi,FALSE,FALSE,,
+2018-09-30,Dimanche,FALSE,FALSE,,
+2018-10-01,Lundi,FALSE,FALSE,,
+2018-10-02,Mardi,FALSE,FALSE,,
+2018-10-03,Mercredi,FALSE,FALSE,,
+2018-10-04,Jeudi,FALSE,FALSE,,
+2018-10-05,Vendredi,FALSE,FALSE,,
+2018-10-06,Samedi,FALSE,FALSE,,
+2018-10-07,Dimanche,FALSE,FALSE,,
+2018-10-08,Lundi,FALSE,FALSE,,
+2018-10-09,Mardi,FALSE,FALSE,,
+2018-10-10,Mercredi,FALSE,FALSE,,
+2018-10-11,Jeudi,FALSE,FALSE,,
+2018-10-12,Vendredi,FALSE,FALSE,,
+2018-10-13,Samedi,FALSE,FALSE,,
+2018-10-14,Dimanche,FALSE,FALSE,,
+2018-10-15,Lundi,FALSE,FALSE,,
+2018-10-16,Mardi,FALSE,FALSE,,
+2018-10-17,Mercredi,FALSE,FALSE,,
+2018-10-18,Jeudi,FALSE,FALSE,,
+2018-10-19,Vendredi,FALSE,FALSE,,
+2018-10-20,Samedi,FALSE,FALSE,,
+2018-10-21,Dimanche,FALSE,FALSE,,
+2018-10-22,Lundi,FALSE,FALSE,,
+2018-10-23,Mardi,FALSE,FALSE,,
+2018-10-24,Mercredi,FALSE,FALSE,,
+2018-10-25,Jeudi,FALSE,FALSE,,
+2018-10-26,Vendredi,FALSE,FALSE,,
+2018-10-27,Samedi,True,FALSE,,La Toussaint
+2018-10-28,Dimanche,True,FALSE,,La Toussaint
+2018-10-29,Lundi,True,FALSE,,La Toussaint
+2018-10-30,Mardi,True,FALSE,,La Toussaint
+2018-10-31,Mercredi,True,FALSE,,La Toussaint
+2018-11-01,Jeudi,True,TRUE,La Toussaint,La Toussaint
+2018-11-02,Vendredi,True,TRUE,Les Trepasses,La Toussaint
+2018-11-03,Samedi,True,FALSE,,La Toussaint
+2018-11-04,Dimanche,True,FALSE,,La Toussaint
+2018-11-05,Lundi,FALSE,FALSE,,
+2018-11-06,Mardi,FALSE,FALSE,,
+2018-11-07,Mercredi,FALSE,FALSE,,
+2018-11-08,Jeudi,FALSE,FALSE,,
+2018-11-09,Vendredi,FALSE,FALSE,,
+2018-11-10,Samedi,FALSE,FALSE,,
+2018-11-11,Dimanche,FALSE,FALSE,,
+2018-11-12,Lundi,FALSE,FALSE,,
+2018-11-13,Mardi,FALSE,FALSE,,
+2018-11-14,Mercredi,FALSE,FALSE,,
+2018-11-15,Jeudi,FALSE,FALSE,,
+2018-11-16,Vendredi,FALSE,FALSE,,
+2018-11-17,Samedi,FALSE,FALSE,,
+2018-11-18,Dimanche,FALSE,FALSE,,
+2018-11-19,Lundi,FALSE,FALSE,,
+2018-11-20,Mardi,FALSE,FALSE,,
+2018-11-21,Mercredi,FALSE,FALSE,,
+2018-11-22,Jeudi,FALSE,FALSE,,
+2018-11-23,Vendredi,FALSE,FALSE,,
+2018-11-24,Samedi,FALSE,FALSE,,
+2018-11-25,Dimanche,FALSE,FALSE,,
+2018-11-26,Lundi,FALSE,FALSE,,
+2018-11-27,Mardi,FALSE,FALSE,,
+2018-11-28,Mercredi,FALSE,FALSE,,
+2018-11-29,Jeudi,FALSE,FALSE,,
+2018-11-30,Vendredi,FALSE,FALSE,,
+2018-12-01,Samedi,FALSE,FALSE,,
+2018-12-02,Dimanche,FALSE,FALSE,,
+2018-12-03,Lundi,FALSE,FALSE,,
+2018-12-04,Mardi,FALSE,FALSE,,
+2018-12-05,Mercredi,FALSE,FALSE,,
+2018-12-06,Jeudi,FALSE,FALSE,,
+2018-12-07,Vendredi,FALSE,FALSE,,
+2018-12-08,Samedi,FALSE,FALSE,,
+2018-12-09,Dimanche,FALSE,FALSE,,
+2018-12-10,Lundi,FALSE,FALSE,,
+2018-12-11,Mardi,FALSE,FALSE,,
+2018-12-12,Mercredi,FALSE,FALSE,,
+2018-12-13,Jeudi,FALSE,FALSE,,
+2018-12-14,Vendredi,FALSE,FALSE,,
+2018-12-15,Samedi,FALSE,FALSE,,
+2018-12-16,Dimanche,FALSE,FALSE,,
+2018-12-17,Lundi,FALSE,FALSE,,
+2018-12-18,Mardi,FALSE,FALSE,,
+2018-12-19,Mercredi,FALSE,FALSE,,
+2018-12-20,Jeudi,FALSE,FALSE,,
+2018-12-21,Vendredi,FALSE,FALSE,,
+2018-12-22,Samedi,True,FALSE,,Vacances de Noeel
+2018-12-23,Dimanche,True,FALSE,,Vacances de Noeel
+2018-12-24,Lundi,True,FALSE,,Vacances de Noeel
+2018-12-25,Mardi,True,TRUE,Noeel,Vacances de Noeel
+2018-12-26,Mercredi,True,TRUE,Saint Etienne,Vacances de Noeel
+2018-12-27,Jeudi,True,FALSE,,Vacances de Noeel
+2018-12-28,Vendredi,True,FALSE,,Vacances de Noeel
+2018-12-29,Samedi,True,FALSE,,Vacances de Noeel
+2018-12-30,Dimanche,True,FALSE,,Vacances de Noeel
+2018-12-31,Lundi,True,FALSE,,Vacances de Noeel
+2019-01-01,Mardi,True,TRUE,Nouvel an,Vacances de Noeel
+2019-01-02,Mercredi,True,FALSE,,Vacances de Noeel
+2019-01-03,Jeudi,True,FALSE,,Vacances de Noeel
+2019-01-04,Vendredi,True,FALSE,,Vacances de Noeel
+2019-01-05,Samedi,True,FALSE,,Vacances de Noeel
+2019-01-06,Dimanche,True,FALSE,,Vacances de Noeel
+2019-01-07,Lundi,FALSE,FALSE,,
+2019-01-08,Mardi,FALSE,FALSE,,
+2019-01-09,Mercredi,FALSE,FALSE,,
+2019-01-10,Jeudi,FALSE,FALSE,,
+2019-01-11,Vendredi,FALSE,FALSE,,
+2019-01-12,Samedi,FALSE,FALSE,,
+2019-01-13,Dimanche,FALSE,FALSE,,
+2019-01-14,Lundi,FALSE,FALSE,,
+2019-01-15,Mardi,FALSE,FALSE,,
+2019-01-16,Mercredi,FALSE,FALSE,,
+2019-01-17,Jeudi,FALSE,FALSE,,
+2019-01-18,Vendredi,FALSE,FALSE,,
+2019-01-19,Samedi,FALSE,FALSE,,
+2019-01-20,Dimanche,FALSE,FALSE,,
+2019-01-21,Lundi,FALSE,FALSE,,
+2019-01-22,Mardi,FALSE,FALSE,,
+2019-01-23,Mercredi,FALSE,FALSE,,
+2019-01-24,Jeudi,FALSE,FALSE,,
+2019-01-25,Vendredi,FALSE,FALSE,,
+2019-01-26,Samedi,FALSE,FALSE,,
+2019-01-27,Dimanche,FALSE,FALSE,,
+2019-01-28,Lundi,FALSE,FALSE,,
+2019-01-29,Mardi,FALSE,FALSE,,
+2019-01-30,Mercredi,FALSE,FALSE,,
+2019-01-31,Jeudi,FALSE,FALSE,,
+2019-02-01,Vendredi,FALSE,FALSE,,
+2019-02-02,Samedi,FALSE,FALSE,,
+2019-02-03,Dimanche,FALSE,FALSE,,
+2019-02-04,Lundi,FALSE,FALSE,,
+2019-02-05,Mardi,FALSE,FALSE,,
+2019-02-06,Mercredi,FALSE,FALSE,,
+2019-02-07,Jeudi,FALSE,FALSE,,
+2019-02-08,Vendredi,FALSE,FALSE,,
+2019-02-09,Samedi,FALSE,FALSE,,
+2019-02-10,Dimanche,FALSE,FALSE,,
+2019-02-11,Lundi,FALSE,FALSE,,
+2019-02-12,Mardi,FALSE,FALSE,,
+2019-02-13,Mercredi,FALSE,FALSE,,
+2019-02-14,Jeudi,FALSE,FALSE,,
+2019-02-15,Vendredi,FALSE,FALSE,,
+2019-02-16,Samedi,True,FALSE,,vacances de Carnaval
+2019-02-17,Dimanche,True,FALSE,,vacances de Carnaval
+2019-02-18,Lundi,True,FALSE,,vacances de Carnaval
+2019-02-19,Mardi,True,FALSE,,vacances de Carnaval
+2019-02-20,Mercredi,True,FALSE,,vacances de Carnaval
+2019-02-21,Jeudi,True,FALSE,,vacances de Carnaval
+2019-02-22,Vendredi,True,FALSE,,vacances de Carnaval
+2019-02-23,Samedi,True,FALSE,,vacances de Carnaval
+2019-02-24,Dimanche,True,FALSE,,vacances de Carnaval
+2019-02-25,Lundi,FALSE,FALSE,,
+2019-02-26,Mardi,FALSE,FALSE,,
+2019-02-27,Mercredi,FALSE,FALSE,,
+2019-02-28,Jeudi,FALSE,FALSE,,
+2019-03-01,Vendredi,FALSE,FALSE,,
+2019-03-02,Samedi,FALSE,FALSE,,
+2019-03-03,Dimanche,FALSE,FALSE,,
+2019-03-04,Lundi,FALSE,FALSE,,
+2019-03-05,Mardi,FALSE,FALSE,,
+2019-03-06,Mercredi,FALSE,FALSE,,
+2019-03-07,Jeudi,FALSE,FALSE,,
+2019-03-08,Vendredi,FALSE,FALSE,,
+2019-03-09,Samedi,FALSE,FALSE,,
+2019-03-10,Dimanche,FALSE,FALSE,,
+2019-03-11,Lundi,FALSE,FALSE,,
+2019-03-12,Mardi,FALSE,FALSE,,
+2019-03-13,Mercredi,FALSE,FALSE,,
+2019-03-14,Jeudi,FALSE,FALSE,,
+2019-03-15,Vendredi,FALSE,FALSE,,
+2019-03-16,Samedi,FALSE,FALSE,,
+2019-03-17,Dimanche,FALSE,FALSE,,
+2019-03-18,Lundi,FALSE,FALSE,,
+2019-03-19,Mardi,FALSE,FALSE,,
+2019-03-20,Mercredi,FALSE,FALSE,,
+2019-03-21,Jeudi,FALSE,FALSE,,
+2019-03-22,Vendredi,FALSE,FALSE,,
+2019-03-23,Samedi,FALSE,FALSE,,
+2019-03-24,Dimanche,FALSE,FALSE,,
+2019-03-25,Lundi,FALSE,FALSE,,
+2019-03-26,Mardi,FALSE,FALSE,,
+2019-03-27,Mercredi,FALSE,FALSE,,
+2019-03-28,Jeudi,FALSE,FALSE,,
+2019-03-29,Vendredi,FALSE,FALSE,,
+2019-03-30,Samedi,FALSE,FALSE,,
+2019-03-31,Dimanche,FALSE,FALSE,,
+2019-04-01,Lundi,FALSE,FALSE,,
+2019-04-02,Mardi,FALSE,FALSE,,
+2019-04-03,Mercredi,FALSE,FALSE,,
+2019-04-04,Jeudi,FALSE,FALSE,,
+2019-04-05,Vendredi,FALSE,FALSE,,
+2019-04-06,Samedi,True,FALSE,,Vacances de Peques
+2019-04-07,Dimanche,True,FALSE,,Vacances de Peques
+2019-04-08,Lundi,True,FALSE,,Vacances de Peques
+2019-04-09,Mardi,True,FALSE,,Vacances de Peques
+2019-04-10,Mercredi,True,FALSE,,Vacances de Peques
+2019-04-11,Jeudi,True,FALSE,,Vacances de Peques
+2019-04-12,Vendredi,True,FALSE,,Vacances de Peques
+2019-04-13,Samedi,True,FALSE,,Vacances de Peques
+2019-04-14,Dimanche,True,FALSE,,Vacances de Peques
+2019-04-15,Lundi,True,FALSE,,Vacances de Peques
+2019-04-16,Mardi,True,FALSE,,Vacances de Peques
+2019-04-17,Mercredi,True,FALSE,,Vacances de Peques
+2019-04-18,Jeudi,True,FALSE,,Vacances de Peques
+2019-04-19,Vendredi,True,FALSE,,Vacances de Peques
+2019-04-20,Samedi,True,FALSE,,Vacances de Peques
+2019-04-21,Dimanche,True,TRUE,Peques,Vacances de Peques
+2019-04-22,Lundi,True,TRUE,Lundi de Peques,Vacances de Peques
+2019-04-23,Mardi,FALSE,FALSE,,
+2019-04-24,Mercredi,FALSE,FALSE,,
+2019-04-25,Jeudi,FALSE,FALSE,,
+2019-04-26,Vendredi,FALSE,FALSE,,
+2019-04-27,Samedi,FALSE,FALSE,,
+2019-04-28,Dimanche,FALSE,FALSE,,
+2019-04-29,Lundi,FALSE,FALSE,,
+2019-04-30,Mardi,FALSE,FALSE,,
+2019-05-01,Mercredi,FALSE,TRUE,Feªte du travail,
+2019-05-02,Jeudi,FALSE,FALSE,,
+2019-05-03,Vendredi,FALSE,FALSE,,
+2019-05-04,Samedi,FALSE,FALSE,,
+2019-05-05,Dimanche,FALSE,FALSE,,
+2019-05-06,Lundi,FALSE,FALSE,,
+2019-05-07,Mardi,FALSE,FALSE,,
+2019-05-08,Mercredi,FALSE,FALSE,,
+2019-05-09,Jeudi,FALSE,TRUE,Journee de lEurope,
+2019-05-10,Vendredi,FALSE,FALSE,,
+2019-05-11,Samedi,FALSE,FALSE,,
+2019-05-12,Dimanche,FALSE,FALSE,,
+2019-05-13,Lundi,FALSE,FALSE,,
+2019-05-14,Mardi,FALSE,FALSE,,
+2019-05-15,Mercredi,FALSE,FALSE,,
+2019-05-16,Jeudi,FALSE,FALSE,,
+2019-05-17,Vendredi,FALSE,FALSE,,
+2019-05-18,Samedi,FALSE,FALSE,,
+2019-05-19,Dimanche,FALSE,FALSE,,
+2019-05-20,Lundi,FALSE,FALSE,,
+2019-05-21,Mardi,FALSE,FALSE,,
+2019-05-22,Mercredi,FALSE,FALSE,,
+2019-05-23,Jeudi,FALSE,FALSE,,
+2019-05-24,Vendredi,FALSE,FALSE,,
+2019-05-25,Samedi,True,FALSE,,Vacances de Pentecete
+2019-05-26,Dimanche,True,FALSE,,Vacances de Pentecete
+2019-05-27,Lundi,True,FALSE,,Vacances de Pentecete
+2019-05-28,Mardi,True,FALSE,,Vacances de Pentecete
+2019-05-29,Mercredi,True,FALSE,,Vacances de Pentecete
+2019-05-30,Jeudi,True,TRUE,Ascension,Vacances de Pentecete
+2019-05-31,Vendredi,True,FALSE,,Vacances de Pentecete
+2019-06-01,Samedi,True,FALSE,,Vacances de Pentecete
+2019-06-02,Dimanche,True,FALSE,,Vacances de Pentecete
+2019-06-03,Lundi,FALSE,FALSE,,
+2019-06-04,Mardi,FALSE,FALSE,,
+2019-06-05,Mercredi,FALSE,FALSE,,
+2019-06-06,Jeudi,FALSE,FALSE,,
+2019-06-07,Vendredi,FALSE,FALSE,,
+2019-06-08,Samedi,FALSE,FALSE,,
+2019-06-09,Dimanche,FALSE,TRUE,Pentecete,
+2019-06-10,Lundi,FALSE,TRUE,Lundi de Pentecete,
+2019-06-11,Mardi,FALSE,FALSE,,
+2019-06-12,Mercredi,FALSE,FALSE,,
+2019-06-13,Jeudi,FALSE,FALSE,,
+2019-06-14,Vendredi,FALSE,FALSE,,
+2019-06-15,Samedi,FALSE,FALSE,,
+2019-06-16,Dimanche,FALSE,FALSE,,
+2019-06-17,Lundi,FALSE,FALSE,,
+2019-06-18,Mardi,FALSE,FALSE,,
+2019-06-19,Mercredi,FALSE,FALSE,,
+2019-06-20,Jeudi,FALSE,FALSE,,
+2019-06-21,Vendredi,FALSE,FALSE,,
+2019-06-22,Samedi,FALSE,FALSE,,
+2019-06-23,Dimanche,FALSE,TRUE,Feªte nationale Luxembourg,
+2019-06-24,Lundi,FALSE,FALSE,,
+2019-06-25,Mardi,FALSE,FALSE,,
+2019-06-26,Mercredi,FALSE,FALSE,,
+2019-06-27,Jeudi,FALSE,FALSE,,
+2019-06-28,Vendredi,FALSE,FALSE,,
+2019-06-29,Samedi,FALSE,FALSE,,
+2019-06-30,Dimanche,FALSE,FALSE,,
+2019-07-01,Lundi,FALSE,FALSE,,
+2019-07-02,Mardi,FALSE,FALSE,,
+2019-07-03,Mercredi,FALSE,FALSE,,
+2019-07-04,Jeudi,FALSE,FALSE,,
+2019-07-05,Vendredi,FALSE,FALSE,,
+2019-07-06,Samedi,FALSE,FALSE,,
+2019-07-07,Dimanche,FALSE,FALSE,,
+2019-07-08,Lundi,FALSE,FALSE,,
+2019-07-09,Mardi,FALSE,FALSE,,
+2019-07-10,Mercredi,FALSE,FALSE,,
+2019-07-11,Jeudi,FALSE,FALSE,,
+2019-07-12,Vendredi,FALSE,FALSE,,
+2019-07-13,Samedi,True,FALSE,,Vacances dete
+2019-07-14,Dimanche,True,FALSE,,Vacances dete
+2019-07-15,Lundi,True,FALSE,,Vacances dete
+2019-07-16,Mardi,True,FALSE,,Vacances dete
+2019-07-17,Mercredi,True,FALSE,,Vacances dete
+2019-07-18,Jeudi,True,FALSE,,Vacances dete
+2019-07-19,Vendredi,True,FALSE,,Vacances dete
+2019-07-20,Samedi,True,FALSE,,Vacances dete
+2019-07-21,Dimanche,True,FALSE,,Vacances dete
+2019-07-22,Lundi,True,FALSE,,Vacances dete
+2019-07-23,Mardi,True,FALSE,,Vacances dete
+2019-07-24,Mercredi,True,FALSE,,Vacances dete
+2019-07-25,Jeudi,True,FALSE,,Vacances dete
+2019-07-26,Vendredi,True,FALSE,,Vacances dete
+2019-07-27,Samedi,True,FALSE,,Vacances dete
+2019-07-28,Dimanche,True,FALSE,,Vacances dete
+2019-07-29,Lundi,True,FALSE,,Vacances dete
+2019-07-30,Mardi,True,FALSE,,Vacances dete
+2019-07-31,Mercredi,True,FALSE,,Vacances dete
+2019-08-01,Jeudi,True,FALSE,,Vacances dete
+2019-08-02,Vendredi,True,FALSE,,Vacances dete
+2019-08-03,Samedi,True,FALSE,,Vacances dete
+2019-08-04,Dimanche,True,FALSE,,Vacances dete
+2019-08-05,Lundi,True,FALSE,,Vacances dete
+2019-08-06,Mardi,True,FALSE,,Vacances dete
+2019-08-07,Mercredi,True,FALSE,,Vacances dete
+2019-08-08,Jeudi,True,FALSE,,Vacances dete
+2019-08-09,Vendredi,True,FALSE,,Vacances dete
+2019-08-10,Samedi,True,FALSE,,Vacances dete
+2019-08-11,Dimanche,True,FALSE,,Vacances dete
+2019-08-12,Lundi,True,FALSE,,Vacances dete
+2019-08-13,Mardi,True,FALSE,,Vacances dete
+2019-08-14,Mercredi,True,FALSE,,Vacances dete
+2019-08-15,Jeudi,True,TRUE,Assomption,Vacances dete
+2019-08-16,Vendredi,True,FALSE,,Vacances dete
+2019-08-17,Samedi,True,FALSE,,Vacances dete
+2019-08-18,Dimanche,True,FALSE,,Vacances dete
+2019-08-19,Lundi,True,FALSE,,Vacances dete
+2019-08-20,Mardi,True,FALSE,,Vacances dete
+2019-08-21,Mercredi,True,FALSE,,Vacances dete
+2019-08-22,Jeudi,True,FALSE,,Vacances dete
+2019-08-23,Vendredi,True,FALSE,,Vacances dete
+2019-08-24,Samedi,True,FALSE,,Vacances dete
+2019-08-25,Dimanche,True,FALSE,,Vacances dete
+2019-08-26,Lundi,True,FALSE,,Vacances dete
+2019-08-27,Mardi,True,FALSE,,Vacances dete
+2019-08-28,Mercredi,True,FALSE,,Vacances dete
+2019-08-29,Jeudi,True,FALSE,,Vacances dete
+2019-08-30,Vendredi,True,FALSE,,Vacances dete
+2019-08-31,Samedi,True,FALSE,,Vacances dete
+2019-09-01,Dimanche,True,FALSE,,Vacances dete
+2019-09-02,Lundi,True,FALSE,,Vacances dete
+2019-09-03,Mardi,True,FALSE,,Vacances dete
+2019-09-04,Mercredi,True,FALSE,,Vacances dete
+2019-09-05,Jeudi,True,FALSE,,Vacances dete
+2019-09-06,Vendredi,True,FALSE,,Vacances dete
+2019-09-07,Samedi,True,FALSE,,Vacances dete
+2019-09-08,Dimanche,True,FALSE,,Vacances dete
+2019-09-09,Lundi,True,FALSE,,Vacances dete
+2019-09-10,Mardi,True,FALSE,,Vacances dete
+2019-09-11,Mercredi,True,FALSE,,Vacances dete
+2019-09-12,Jeudi,True,FALSE,,Vacances dete
+2019-09-13,Vendredi,True,FALSE,,Vacances dete
+2019-09-14,Samedi,True,FALSE,,Vacances dete
+2019-09-15,Dimanche,True,FALSE,,Vacances dete
+2019-09-16,Lundi,FALSE,FALSE,,
+2019-09-17,Mardi,FALSE,FALSE,,
+2019-09-18,Mercredi,FALSE,FALSE,,
+2019-09-19,Jeudi,FALSE,FALSE,,
+2019-09-20,Vendredi,FALSE,FALSE,,
+2019-09-21,Samedi,FALSE,FALSE,,
+2019-09-22,Dimanche,FALSE,FALSE,,
+2019-09-23,Lundi,FALSE,FALSE,,
+2019-09-24,Mardi,FALSE,FALSE,,
+2019-09-25,Mercredi,FALSE,FALSE,,
+2019-09-26,Jeudi,FALSE,FALSE,,
+2019-09-27,Vendredi,FALSE,FALSE,,
+2019-09-28,Samedi,FALSE,FALSE,,
+2019-09-29,Dimanche,FALSE,FALSE,,
+2019-09-30,Lundi,FALSE,FALSE,,
+2019-10-01,Mardi,FALSE,FALSE,,
+2019-10-02,Mercredi,FALSE,FALSE,,
+2019-10-03,Jeudi,FALSE,FALSE,,
+2019-10-04,Vendredi,FALSE,FALSE,,
+2019-10-05,Samedi,FALSE,FALSE,,
+2019-10-06,Dimanche,FALSE,FALSE,,
+2019-10-07,Lundi,FALSE,FALSE,,
+2019-10-08,Mardi,FALSE,FALSE,,
+2019-10-09,Mercredi,FALSE,FALSE,,
+2019-10-10,Jeudi,FALSE,FALSE,,
+2019-10-11,Vendredi,FALSE,FALSE,,
+2019-10-12,Samedi,FALSE,FALSE,,
+2019-10-13,Dimanche,FALSE,FALSE,,
+2019-10-14,Lundi,FALSE,FALSE,,
+2019-10-15,Mardi,FALSE,FALSE,,
+2019-10-16,Mercredi,FALSE,FALSE,,
+2019-10-17,Jeudi,FALSE,FALSE,,
+2019-10-18,Vendredi,FALSE,FALSE,,
+2019-10-19,Samedi,FALSE,FALSE,,
+2019-10-20,Dimanche,FALSE,FALSE,,
+2019-10-21,Lundi,FALSE,FALSE,,
+2019-10-22,Mardi,FALSE,FALSE,,
+2019-10-23,Mercredi,FALSE,FALSE,,
+2019-10-24,Jeudi,FALSE,FALSE,,
+2019-10-25,Vendredi,FALSE,FALSE,,
+2019-10-26,Samedi,True,FALSE,,La Toussaint
+2019-10-27,Dimanche,True,FALSE,,La Toussaint
+2019-10-28,Lundi,True,FALSE,,La Toussaint
+2019-10-29,Mardi,True,FALSE,,La Toussaint
+2019-10-30,Mercredi,True,FALSE,,La Toussaint
+2019-10-31,Jeudi,True,FALSE,,La Toussaint
+2019-11-01,Vendredi,True,TRUE,La Toussaint,La Toussaint
+2019-11-02,Samedi,True,TRUE,Les Trepasses,La Toussaint
+2019-11-03,Dimanche,True,FALSE,,La Toussaint
+2019-11-04,Lundi,FALSE,FALSE,,
+2019-11-05,Mardi,FALSE,FALSE,,
+2019-11-06,Mercredi,FALSE,FALSE,,
+2019-11-07,Jeudi,FALSE,FALSE,,
+2019-11-08,Vendredi,FALSE,FALSE,,
+2019-11-09,Samedi,FALSE,FALSE,,
+2019-11-10,Dimanche,FALSE,FALSE,,
+2019-11-11,Lundi,FALSE,FALSE,,
+2019-11-12,Mardi,FALSE,FALSE,,
+2019-11-13,Mercredi,FALSE,FALSE,,
+2019-11-14,Jeudi,FALSE,FALSE,,
+2019-11-15,Vendredi,FALSE,FALSE,,
+2019-11-16,Samedi,FALSE,FALSE,,
+2019-11-17,Dimanche,FALSE,FALSE,,
+2019-11-18,Lundi,FALSE,FALSE,,
+2019-11-19,Mardi,FALSE,FALSE,,
+2019-11-20,Mercredi,FALSE,FALSE,,
+2019-11-21,Jeudi,FALSE,FALSE,,
+2019-11-22,Vendredi,FALSE,FALSE,,
+2019-11-23,Samedi,FALSE,FALSE,,
+2019-11-24,Dimanche,FALSE,FALSE,,
+2019-11-25,Lundi,FALSE,FALSE,,
+2019-11-26,Mardi,FALSE,FALSE,,
+2019-11-27,Mercredi,FALSE,FALSE,,
+2019-11-28,Jeudi,FALSE,FALSE,,
+2019-11-29,Vendredi,FALSE,FALSE,,
+2019-11-30,Samedi,FALSE,FALSE,,
+2019-12-01,Dimanche,FALSE,FALSE,,
+2019-12-02,Lundi,FALSE,FALSE,,
+2019-12-03,Mardi,FALSE,FALSE,,
+2019-12-04,Mercredi,FALSE,FALSE,,
+2019-12-05,Jeudi,FALSE,FALSE,,
+2019-12-06,Vendredi,FALSE,FALSE,,
+2019-12-07,Samedi,FALSE,FALSE,,
+2019-12-08,Dimanche,FALSE,FALSE,,
+2019-12-09,Lundi,FALSE,FALSE,,
+2019-12-10,Mardi,FALSE,FALSE,,
+2019-12-11,Mercredi,FALSE,FALSE,,
+2019-12-12,Jeudi,FALSE,FALSE,,
+2019-12-13,Vendredi,FALSE,FALSE,,
+2019-12-14,Samedi,FALSE,FALSE,,
+2019-12-15,Dimanche,FALSE,FALSE,,
+2019-12-16,Lundi,FALSE,FALSE,,
+2019-12-17,Mardi,FALSE,FALSE,,
+2019-12-18,Mercredi,FALSE,FALSE,,
+2019-12-19,Jeudi,FALSE,FALSE,,
+2019-12-20,Vendredi,FALSE,FALSE,,
+2019-12-21,Samedi,True,FALSE,,Vacances de Noeel
+2019-12-22,Dimanche,True,FALSE,,Vacances de Noeel
+2019-12-23,Lundi,True,FALSE,,Vacances de Noeel
+2019-12-24,Mardi,True,FALSE,,Vacances de Noeel
+2019-12-25,Mercredi,True,TRUE,Noeel,Vacances de Noeel
+2019-12-26,Jeudi,True,TRUE,Saint Etienne,Vacances de Noeel
+2019-12-27,Vendredi,True,FALSE,,Vacances de Noeel
+2019-12-28,Samedi,True,FALSE,,Vacances de Noeel
+2019-12-29,Dimanche,True,FALSE,,Vacances de Noeel
+2019-12-30,Lundi,True,FALSE,,Vacances de Noeel
+2019-12-31,Mardi,True,FALSE,,Vacances de Noeel
+2020-01-01,Mercredi,True,TRUE,Nouvel an,Vacances de Noeel
+2020-01-02,Jeudi,True,FALSE,,Vacances de Noeel
+2020-01-03,Vendredi,True,FALSE,,Vacances de Noeel
+2020-01-04,Samedi,True,FALSE,,Vacances de Noeel
+2020-01-05,Dimanche,True,FALSE,,Vacances de Noeel
+2020-01-06,Lundi,FALSE,FALSE,,
+2020-01-07,Mardi,FALSE,FALSE,,
+2020-01-08,Mercredi,FALSE,FALSE,,
+2020-01-09,Jeudi,FALSE,FALSE,,
+2020-01-10,Vendredi,FALSE,FALSE,,
+2020-01-11,Samedi,FALSE,FALSE,,
+2020-01-12,Dimanche,FALSE,FALSE,,
+2020-01-13,Lundi,FALSE,FALSE,,
+2020-01-14,Mardi,FALSE,FALSE,,
+2020-01-15,Mercredi,FALSE,FALSE,,
+2020-01-16,Jeudi,FALSE,FALSE,,
+2020-01-17,Vendredi,FALSE,FALSE,,
+2020-01-18,Samedi,FALSE,FALSE,,
+2020-01-19,Dimanche,FALSE,FALSE,,
+2020-01-20,Lundi,FALSE,FALSE,,
+2020-01-21,Mardi,FALSE,FALSE,,
+2020-01-22,Mercredi,FALSE,FALSE,,
+2020-01-23,Jeudi,FALSE,FALSE,,
+2020-01-24,Vendredi,FALSE,FALSE,,
+2020-01-25,Samedi,FALSE,FALSE,,
+2020-01-26,Dimanche,FALSE,FALSE,,
+2020-01-27,Lundi,FALSE,FALSE,,
+2020-01-28,Mardi,FALSE,FALSE,,
+2020-01-29,Mercredi,FALSE,FALSE,,
+2020-01-30,Jeudi,FALSE,FALSE,,
+2020-01-31,Vendredi,FALSE,FALSE,,
+2020-02-01,Samedi,FALSE,FALSE,,
+2020-02-02,Dimanche,FALSE,FALSE,,
+2020-02-03,Lundi,FALSE,FALSE,,
+2020-02-04,Mardi,FALSE,FALSE,,
+2020-02-05,Mercredi,FALSE,FALSE,,
+2020-02-06,Jeudi,FALSE,FALSE,,
+2020-02-07,Vendredi,FALSE,FALSE,,
+2020-02-08,Samedi,FALSE,FALSE,,
+2020-02-09,Dimanche,FALSE,FALSE,,
+2020-02-10,Lundi,FALSE,FALSE,,
+2020-02-11,Mardi,FALSE,FALSE,,
+2020-02-12,Mercredi,FALSE,FALSE,,
+2020-02-13,Jeudi,FALSE,FALSE,,
+2020-02-14,Vendredi,FALSE,FALSE,,
+2020-02-15,Samedi,True,FALSE,,vacances de Carnaval
+2020-02-16,Dimanche,True,FALSE,,vacances de Carnaval
+2020-02-17,Lundi,True,FALSE,,vacances de Carnaval
+2020-02-18,Mardi,True,FALSE,,vacances de Carnaval
+2020-02-19,Mercredi,True,FALSE,,vacances de Carnaval
+2020-02-20,Jeudi,True,FALSE,,vacances de Carnaval
+2020-02-21,Vendredi,True,FALSE,,vacances de Carnaval
+2020-02-22,Samedi,True,FALSE,,vacances de Carnaval
+2020-02-23,Dimanche,True,FALSE,,vacances de Carnaval
+2020-02-24,Lundi,FALSE,FALSE,,
+2020-02-25,Mardi,FALSE,FALSE,,
+2020-02-26,Mercredi,FALSE,FALSE,,
+2020-02-27,Jeudi,FALSE,FALSE,,
+2020-02-28,Vendredi,FALSE,FALSE,,
+2020-02-29,Samedi,FALSE,FALSE,,
+2020-03-01,Dimanche,FALSE,FALSE,,
+2020-03-02,Lundi,FALSE,FALSE,,
+2020-03-03,Mardi,FALSE,FALSE,,
+2020-03-04,Mercredi,FALSE,FALSE,,
+2020-03-05,Jeudi,FALSE,FALSE,,
+2020-03-06,Vendredi,FALSE,FALSE,,
+2020-03-07,Samedi,FALSE,FALSE,,
+2020-03-08,Dimanche,FALSE,FALSE,,
+2020-03-09,Lundi,FALSE,FALSE,,
+2020-03-10,Mardi,FALSE,FALSE,,
+2020-03-11,Mercredi,FALSE,FALSE,,
+2020-03-12,Jeudi,FALSE,FALSE,,
+2020-03-13,Vendredi,FALSE,FALSE,,
+2020-03-14,Samedi,FALSE,FALSE,,
+2020-03-15,Dimanche,FALSE,FALSE,,
+2020-03-16,Lundi,FALSE,FALSE,,
+2020-03-17,Mardi,FALSE,FALSE,,
+2020-03-18,Mercredi,FALSE,FALSE,,
+2020-03-19,Jeudi,FALSE,FALSE,,
+2020-03-20,Vendredi,FALSE,FALSE,,
+2020-03-21,Samedi,FALSE,FALSE,,
+2020-03-22,Dimanche,FALSE,FALSE,,
+2020-03-23,Lundi,FALSE,FALSE,,
+2020-03-24,Mardi,FALSE,FALSE,,
+2020-03-25,Mercredi,FALSE,FALSE,,
+2020-03-26,Jeudi,FALSE,FALSE,,
+2020-03-27,Vendredi,FALSE,FALSE,,
+2020-03-28,Samedi,FALSE,FALSE,,
+2020-03-29,Dimanche,FALSE,FALSE,,
+2020-03-30,Lundi,FALSE,FALSE,,
+2020-03-31,Mardi,FALSE,FALSE,,
+2020-04-01,Mercredi,FALSE,FALSE,,
+2020-04-02,Jeudi,FALSE,FALSE,,
+2020-04-03,Vendredi,FALSE,FALSE,,
+2020-04-04,Samedi,True,FALSE,,Vacances de Peques
+2020-04-05,Dimanche,True,FALSE,,Vacances de Peques
+2020-04-06,Lundi,True,FALSE,,Vacances de Peques
+2020-04-07,Mardi,True,FALSE,,Vacances de Peques
+2020-04-08,Mercredi,True,FALSE,,Vacances de Peques
+2020-04-09,Jeudi,True,FALSE,,Vacances de Peques
+2020-04-10,Vendredi,True,FALSE,,Vacances de Peques
+2020-04-11,Samedi,True,FALSE,,Vacances de Peques
+2020-04-12,Dimanche,True,TRUE,Peques,Vacances de Peques
+2020-04-13,Lundi,True,TRUE,Lundi de Peques,Vacances de Peques
+2020-04-14,Mardi,True,FALSE,,Vacances de Peques
+2020-04-15,Mercredi,True,FALSE,,Vacances de Peques
+2020-04-16,Jeudi,True,FALSE,,Vacances de Peques
+2020-04-17,Vendredi,True,FALSE,,Vacances de Peques
+2020-04-18,Samedi,True,FALSE,,Vacances de Peques
+2020-04-19,Dimanche,True,FALSE,,Vacances de Peques
+2020-04-20,Lundi,FALSE,FALSE,,
+2020-04-21,Mardi,FALSE,FALSE,,
+2020-04-22,Mercredi,FALSE,FALSE,,
+2020-04-23,Jeudi,FALSE,FALSE,,
+2020-04-24,Vendredi,FALSE,FALSE,,
+2020-04-25,Samedi,FALSE,FALSE,,
+2020-04-26,Dimanche,FALSE,FALSE,,
+2020-04-27,Lundi,FALSE,FALSE,,
+2020-04-28,Mardi,FALSE,FALSE,,
+2020-04-29,Mercredi,FALSE,FALSE,,
+2020-04-30,Jeudi,FALSE,FALSE,,
+2020-05-01,Vendredi,FALSE,TRUE,Feªte du travail,
+2020-05-02,Samedi,FALSE,FALSE,,
+2020-05-03,Dimanche,FALSE,FALSE,,
+2020-05-04,Lundi,FALSE,FALSE,,
+2020-05-05,Mardi,FALSE,FALSE,,
+2020-05-06,Mercredi,FALSE,FALSE,,
+2020-05-07,Jeudi,FALSE,FALSE,,
+2020-05-08,Vendredi,FALSE,FALSE,,
+2020-05-09,Samedi,FALSE,TRUE,Journee de lEurope,
+2020-05-10,Dimanche,FALSE,FALSE,,
+2020-05-11,Lundi,FALSE,FALSE,,
+2020-05-12,Mardi,FALSE,FALSE,,
+2020-05-13,Mercredi,FALSE,FALSE,,
+2020-05-14,Jeudi,FALSE,FALSE,,
+2020-05-15,Vendredi,FALSE,FALSE,,
+2020-05-16,Samedi,FALSE,FALSE,,
+2020-05-17,Dimanche,FALSE,FALSE,,
+2020-05-18,Lundi,FALSE,FALSE,,
+2020-05-19,Mardi,FALSE,FALSE,,
+2020-05-20,Mercredi,FALSE,FALSE,,
+2020-05-21,Jeudi,FALSE,TRUE,Ascension,
+2020-05-22,Vendredi,FALSE,FALSE,,
+2020-05-23,Samedi,FALSE,FALSE,,
+2020-05-24,Dimanche,FALSE,FALSE,,
+2020-05-25,Lundi,FALSE,FALSE,,
+2020-05-26,Mardi,FALSE,FALSE,,
+2020-05-27,Mercredi,FALSE,FALSE,,
+2020-05-28,Jeudi,FALSE,FALSE,,
+2020-05-29,Vendredi,FALSE,FALSE,,
+2020-05-30,Samedi,True,FALSE,,Vacances de Pentecete
+2020-05-31,Dimanche,True,TRUE,Pentecete,Vacances de Pentecete
+2020-06-01,Lundi,True,TRUE,Lundi de Pentecete,Vacances de Pentecete
+2020-06-02,Mardi,True,FALSE,,Vacances de Pentecete
+2020-06-03,Mercredi,True,FALSE,,Vacances de Pentecete
+2020-06-04,Jeudi,True,FALSE,,Vacances de Pentecete
+2020-06-05,Vendredi,True,FALSE,,Vacances de Pentecete
+2020-06-06,Samedi,True,FALSE,,Vacances de Pentecete
+2020-06-07,Dimanche,True,FALSE,,Vacances de Pentecete
+2020-06-08,Lundi,FALSE,FALSE,,
+2020-06-09,Mardi,FALSE,FALSE,,
+2020-06-10,Mercredi,FALSE,FALSE,,
+2020-06-11,Jeudi,FALSE,FALSE,,
+2020-06-12,Vendredi,FALSE,FALSE,,
+2020-06-13,Samedi,FALSE,FALSE,,
+2020-06-14,Dimanche,FALSE,FALSE,,
+2020-06-15,Lundi,FALSE,FALSE,,
+2020-06-16,Mardi,FALSE,FALSE,,
+2020-06-17,Mercredi,FALSE,FALSE,,
+2020-06-18,Jeudi,FALSE,FALSE,,
+2020-06-19,Vendredi,FALSE,FALSE,,
+2020-06-20,Samedi,FALSE,FALSE,,
+2020-06-21,Dimanche,FALSE,FALSE,,
+2020-06-22,Lundi,FALSE,FALSE,,
+2020-06-23,Mardi,FALSE,TRUE,Feªte nationale Luxembourg,
+2020-06-24,Mercredi,FALSE,FALSE,,
+2020-06-25,Jeudi,FALSE,FALSE,,
+2020-06-26,Vendredi,FALSE,FALSE,,
+2020-06-27,Samedi,FALSE,FALSE,,
+2020-06-28,Dimanche,FALSE,FALSE,,
+2020-06-29,Lundi,FALSE,FALSE,,
+2020-06-30,Mardi,FALSE,FALSE,,
+2020-07-01,Mercredi,FALSE,FALSE,,
+2020-07-02,Jeudi,FALSE,FALSE,,
+2020-07-03,Vendredi,FALSE,FALSE,,
+2020-07-04,Samedi,FALSE,FALSE,,
+2020-07-05,Dimanche,FALSE,FALSE,,
+2020-07-06,Lundi,FALSE,FALSE,,
+2020-07-07,Mardi,FALSE,FALSE,,
+2020-07-08,Mercredi,FALSE,FALSE,,
+2020-07-09,Jeudi,FALSE,FALSE,,
+2020-07-10,Vendredi,FALSE,FALSE,,
+2020-07-11,Samedi,FALSE,FALSE,,
+2020-07-12,Dimanche,FALSE,FALSE,,
+2020-07-13,Lundi,FALSE,FALSE,,
+2020-07-14,Mardi,FALSE,FALSE,,
+2020-07-15,Mercredi,FALSE,FALSE,,
+2020-07-16,Jeudi,True,FALSE,,Vacances dete
+2020-07-17,Vendredi,True,FALSE,,Vacances dete
+2020-07-18,Samedi,True,FALSE,,Vacances dete
+2020-07-19,Dimanche,True,FALSE,,Vacances dete
+2020-07-20,Lundi,True,FALSE,,Vacances dete
+2020-07-21,Mardi,True,FALSE,,Vacances dete
+2020-07-22,Mercredi,True,FALSE,,Vacances dete
+2020-07-23,Jeudi,True,FALSE,,Vacances dete
+2020-07-24,Vendredi,True,FALSE,,Vacances dete
+2020-07-25,Samedi,True,FALSE,,Vacances dete
+2020-07-26,Dimanche,True,FALSE,,Vacances dete
+2020-07-27,Lundi,True,FALSE,,Vacances dete
+2020-07-28,Mardi,True,FALSE,,Vacances dete
+2020-07-29,Mercredi,True,FALSE,,Vacances dete
+2020-07-30,Jeudi,True,FALSE,,Vacances dete
+2020-07-31,Vendredi,True,FALSE,,Vacances dete
+2020-08-01,Samedi,True,FALSE,,Vacances dete
+2020-08-02,Dimanche,True,FALSE,,Vacances dete
+2020-08-03,Lundi,True,FALSE,,Vacances dete
+2020-08-04,Mardi,True,FALSE,,Vacances dete
+2020-08-05,Mercredi,True,FALSE,,Vacances dete
+2020-08-06,Jeudi,True,FALSE,,Vacances dete
+2020-08-07,Vendredi,True,FALSE,,Vacances dete
+2020-08-08,Samedi,True,FALSE,,Vacances dete
+2020-08-09,Dimanche,True,FALSE,,Vacances dete
+2020-08-10,Lundi,True,FALSE,,Vacances dete
+2020-08-11,Mardi,True,FALSE,,Vacances dete
+2020-08-12,Mercredi,True,FALSE,,Vacances dete
+2020-08-13,Jeudi,True,FALSE,,Vacances dete
+2020-08-14,Vendredi,True,FALSE,,Vacances dete
+2020-08-15,Samedi,True,TRUE,Assomption,Vacances dete
+2020-08-16,Dimanche,True,FALSE,,Vacances dete
+2020-08-17,Lundi,True,FALSE,,Vacances dete
+2020-08-18,Mardi,True,FALSE,,Vacances dete
+2020-08-19,Mercredi,True,FALSE,,Vacances dete
+2020-08-20,Jeudi,True,FALSE,,Vacances dete
+2020-08-21,Vendredi,True,FALSE,,Vacances dete
+2020-08-22,Samedi,True,FALSE,,Vacances dete
+2020-08-23,Dimanche,True,FALSE,,Vacances dete
+2020-08-24,Lundi,True,FALSE,,Vacances dete
+2020-08-25,Mardi,True,FALSE,,Vacances dete
+2020-08-26,Mercredi,True,FALSE,,Vacances dete
+2020-08-27,Jeudi,True,FALSE,,Vacances dete
+2020-08-28,Vendredi,True,FALSE,,Vacances dete
+2020-08-29,Samedi,True,FALSE,,Vacances dete
+2020-08-30,Dimanche,True,FALSE,,Vacances dete
+2020-08-31,Lundi,True,FALSE,,Vacances dete
+2020-09-01,Mardi,True,FALSE,,Vacances dete
+2020-09-02,Mercredi,True,FALSE,,Vacances dete
+2020-09-03,Jeudi,True,FALSE,,Vacances dete
+2020-09-04,Vendredi,True,FALSE,,Vacances dete
+2020-09-05,Samedi,True,FALSE,,Vacances dete
+2020-09-06,Dimanche,True,FALSE,,Vacances dete
+2020-09-07,Lundi,True,FALSE,,Vacances dete
+2020-09-08,Mardi,True,FALSE,,Vacances dete
+2020-09-09,Mercredi,True,FALSE,,Vacances dete
+2020-09-10,Jeudi,True,FALSE,,Vacances dete
+2020-09-11,Vendredi,True,FALSE,,Vacances dete
+2020-09-12,Samedi,True,FALSE,,Vacances dete
+2020-09-13,Dimanche,True,FALSE,,Vacances dete
+2020-09-14,Lundi,True,FALSE,,Vacances dete
+2020-09-15,Mardi,FALSE,FALSE,,
+2020-09-16,Mercredi,FALSE,FALSE,,
+2020-09-17,Jeudi,FALSE,FALSE,,
+2020-09-18,Vendredi,FALSE,FALSE,,
+2020-09-19,Samedi,FALSE,FALSE,,
+2020-09-20,Dimanche,FALSE,FALSE,,
+2020-09-21,Lundi,FALSE,FALSE,,
+2020-09-22,Mardi,FALSE,FALSE,,
+2020-09-23,Mercredi,FALSE,FALSE,,
+2020-09-24,Jeudi,FALSE,FALSE,,
+2020-09-25,Vendredi,FALSE,FALSE,,
+2020-09-26,Samedi,FALSE,FALSE,,
+2020-09-27,Dimanche,FALSE,FALSE,,
+2020-09-28,Lundi,FALSE,FALSE,,
+2020-09-29,Mardi,FALSE,FALSE,,
+2020-09-30,Mercredi,FALSE,FALSE,,
+2020-10-01,Jeudi,FALSE,FALSE,,
+2020-10-02,Vendredi,FALSE,FALSE,,
+2020-10-03,Samedi,FALSE,FALSE,,
+2020-10-04,Dimanche,FALSE,FALSE,,
+2020-10-05,Lundi,FALSE,FALSE,,
+2020-10-06,Mardi,FALSE,FALSE,,
+2020-10-07,Mercredi,FALSE,FALSE,,
+2020-10-08,Jeudi,FALSE,FALSE,,
+2020-10-09,Vendredi,FALSE,FALSE,,
+2020-10-10,Samedi,FALSE,FALSE,,
+2020-10-11,Dimanche,FALSE,FALSE,,
+2020-10-12,Lundi,FALSE,FALSE,,
+2020-10-13,Mardi,FALSE,FALSE,,
+2020-10-14,Mercredi,FALSE,FALSE,,
+2020-10-15,Jeudi,FALSE,FALSE,,
+2020-10-16,Vendredi,FALSE,FALSE,,
+2020-10-17,Samedi,FALSE,FALSE,,
+2020-10-18,Dimanche,FALSE,FALSE,,
+2020-10-19,Lundi,FALSE,FALSE,,
+2020-10-20,Mardi,FALSE,FALSE,,
+2020-10-21,Mercredi,FALSE,FALSE,,
+2020-10-22,Jeudi,FALSE,FALSE,,
+2020-10-23,Vendredi,FALSE,FALSE,,
+2020-10-24,Samedi,FALSE,FALSE,,
+2020-10-25,Dimanche,FALSE,FALSE,,
+2020-10-26,Lundi,FALSE,FALSE,,
+2020-10-27,Mardi,FALSE,FALSE,,
+2020-10-28,Mercredi,FALSE,FALSE,,
+2020-10-29,Jeudi,FALSE,FALSE,,
+2020-10-30,Vendredi,FALSE,FALSE,,
+2020-10-31,Samedi,True,FALSE,,La Toussaint
+2020-11-01,Dimanche,True,TRUE,La Toussaint,La Toussaint
+2020-11-02,Lundi,True,TRUE,Les Trepasses,La Toussaint
+2020-11-03,Mardi,True,FALSE,,La Toussaint
+2020-11-04,Mercredi,True,FALSE,,La Toussaint
+2020-11-05,Jeudi,True,FALSE,,La Toussaint
+2020-11-06,Vendredi,True,FALSE,,La Toussaint
+2020-11-07,Samedi,True,FALSE,,La Toussaint
+2020-11-08,Dimanche,True,FALSE,,La Toussaint
+2020-11-09,Lundi,FALSE,FALSE,,
+2020-11-10,Mardi,FALSE,FALSE,,
+2020-11-11,Mercredi,FALSE,FALSE,,
+2020-11-12,Jeudi,FALSE,FALSE,,
+2020-11-13,Vendredi,FALSE,FALSE,,
+2020-11-14,Samedi,FALSE,FALSE,,
+2020-11-15,Dimanche,FALSE,FALSE,,
+2020-11-16,Lundi,FALSE,FALSE,,
+2020-11-17,Mardi,FALSE,FALSE,,
+2020-11-18,Mercredi,FALSE,FALSE,,
+2020-11-19,Jeudi,FALSE,FALSE,,
+2020-11-20,Vendredi,FALSE,FALSE,,
+2020-11-21,Samedi,FALSE,FALSE,,
+2020-11-22,Dimanche,FALSE,FALSE,,
+2020-11-23,Lundi,FALSE,FALSE,,
+2020-11-24,Mardi,FALSE,FALSE,,
+2020-11-25,Mercredi,FALSE,FALSE,,
+2020-11-26,Jeudi,FALSE,FALSE,,
+2020-11-27,Vendredi,FALSE,FALSE,,
+2020-11-28,Samedi,FALSE,FALSE,,
+2020-11-29,Dimanche,FALSE,FALSE,,
+2020-11-30,Lundi,FALSE,FALSE,,
+2020-12-01,Mardi,FALSE,FALSE,,
+2020-12-02,Mercredi,FALSE,FALSE,,
+2020-12-03,Jeudi,FALSE,FALSE,,
+2020-12-04,Vendredi,FALSE,FALSE,,
+2020-12-05,Samedi,FALSE,FALSE,,
+2020-12-06,Dimanche,FALSE,FALSE,,
+2020-12-07,Lundi,FALSE,FALSE,,
+2020-12-08,Mardi,FALSE,FALSE,,
+2020-12-09,Mercredi,FALSE,FALSE,,
+2020-12-10,Jeudi,FALSE,FALSE,,
+2020-12-11,Vendredi,FALSE,FALSE,,
+2020-12-12,Samedi,FALSE,FALSE,,
+2020-12-13,Dimanche,FALSE,FALSE,,
+2020-12-14,Lundi,FALSE,FALSE,,
+2020-12-15,Mardi,FALSE,FALSE,,
+2020-12-16,Mercredi,FALSE,FALSE,,
+2020-12-17,Jeudi,FALSE,FALSE,,
+2020-12-18,Vendredi,FALSE,FALSE,,
+2020-12-19,Samedi,True,FALSE,,Vacances de Noeel
+2020-12-20,Dimanche,True,FALSE,,Vacances de Noeel
+2020-12-21,Lundi,True,FALSE,,Vacances de Noeel
+2020-12-22,Mardi,True,FALSE,,Vacances de Noeel
+2020-12-23,Mercredi,True,FALSE,,Vacances de Noeel
+2020-12-24,Jeudi,True,FALSE,,Vacances de Noeel
+2020-12-25,Vendredi,True,TRUE,Noeel,Vacances de Noeel
+2020-12-26,Samedi,True,TRUE,Saint Etienne,Vacances de Noeel
+2020-12-27,Dimanche,True,FALSE,,Vacances de Noeel
+2020-12-28,Lundi,True,FALSE,,Vacances de Noeel
+2020-12-29,Mardi,True,FALSE,,Vacances de Noeel
+2020-12-30,Mercredi,True,FALSE,,Vacances de Noeel
+2020-12-31,Jeudi,True,FALSE,,Vacances de Noeel
